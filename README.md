@@ -1,20 +1,13 @@
-# `@napi-rs/package-template`
+# `sdl2-mixer-node`
 
-![https://github.com/napi-rs/package-template/actions](https://github.com/napi-rs/package-template/workflows/CI/badge.svg)
+![https://github.com/monteslu/sdl2-mixer-node/actions](https://github.com/monteslu/sdl2-mixer-node/workflows/CI/badge.svg)
 
 > Template project for writing node packages with napi-rs.
-
-# Usage
-
-1. Click **Use this template**.
-2. **Clone** your project.
-3. Run `yarn install` to install dependencies.
-4. Run `npx napi rename -n [name]` command under the project folder to rename your package.
 
 ## Install this test package
 
 ```
-yarn add @napi-rs/package-template
+npm i sdl2-mixer-node
 ```
 
 ## Support matrix
