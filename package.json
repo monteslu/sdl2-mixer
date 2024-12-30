@@ -1,6 +1,6 @@
 {
   "name": "sdl2-mixer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "SDL2_mixer bindings for Node.js",
   "main": "index.js",
   "license": "MIT",
@@ -36,7 +36,7 @@
     }
   },
   "engines": {
-    "node": ">= 10"
+    "node": ">= 20"
   },
   "ava": {
     "timeout": "2m",
